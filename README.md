@@ -84,9 +84,10 @@ This section includes **MATLAB simulations** demonstrating the behavior of the H
 ## 🖥️ Hodgkin-Huxley Stimulator GUI – Python
 
 A **Python-based GUI application** (in development) to simulate and stimulate HH model dynamics with user-defined parameters.
-👩‍🎓 Built for students and researchers to study HH properties without writing code
 
-🧑‍🏫 User-friendly interface designed for ease of learning and analysis
+  👩‍🎓 Built for students and researchers to study HH properties without writing code
+  
+  🧑‍🏫 User-friendly interface designed for ease of learning and analysis
 
 ### Features:
 - GUI built with `PySimpleGUI` (custom installer provided)
@@ -104,7 +105,7 @@ A **Python-based GUI application** (in development) to simulate and stimulate HH
 > ![HH MATLAB](images/hh_matlab_example.png)
 
 > **Python HH Stimulator App GUI**  
-> ![HH GUI](images/hh_gui_example.png)
+> ![HH GUI](Assets/hh_gui_example.png)
 
 > **CircAdapt Cardiac Simulation**  
 > ![Cardiac CircAdapt](images/circadapt_example.png)
@@ -129,8 +130,3 @@ A **Python-based GUI application** (in development) to simulate and stimulate HH
 
 
 
----
-
-## 📜 License
-
-This project is open-source under the MIT License.
