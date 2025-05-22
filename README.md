@@ -102,7 +102,7 @@ A **Python-based GUI application** (in development) to simulate and stimulate HH
 ---
 
 
-> ![HH MATLAB](Assets/matlab.jpg)
+> ![HH MATLAB]<img src="Assets/matlab.jpg" width="500"/>
 
 > **Python HH Simulator App GUI**  
 > ![HH GUI](Assets/simulator.jpg)
