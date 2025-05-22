@@ -102,10 +102,10 @@ A **Python-based GUI application** (in development) to simulate and stimulate HH
 ---
 
 
-> ![HH MATLAB](Assets/matlab.png)
+> ![HH MATLAB](Assets/matlab.jpg)
 
 > **Python HH Simulator App GUI**  
-> ![HH GUI](Assets/simulator.png)
+> ![HH GUI](Assets/simulator.jpg)
 
 > **CircAdapt Cardiac Simulation**  
 > ![Cardiac CircAdapt](Assets/circ.png)
